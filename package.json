@@ -1,6 +1,6 @@
 {
-  "name": "remark-github-plugin",
-  "version": "0.0.0-semantic-release",
+  "name": "remark-github-plugin-link-headers",
+  "version": "1.0.0",
   "description": "Remark plugin to inline GitHub source code into markdown file as code blocks",
   "keywords": [
     "remark",
